@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # $File: cmdtool.py
 # $Date: Sat Apr 06 15:42:43 2013 +0800
