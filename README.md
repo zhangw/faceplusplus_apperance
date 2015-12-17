@@ -21,3 +21,7 @@ code for details.
 ## 3. facepp.py
 
 This is the underlying API implementation.
+
+## 4. run_rating_apperance.py
+
+使用face++的SDK计算颜值
